@@ -1,0 +1,16 @@
+{
+    "repo": "Sanofi-GitHub/EasyInvoice-OpenTextUpgrade-DotNet",
+    "branch": "RITM24365490",
+    "scanId": "ffc58ed2-8f54-45a7-b895-b7b1f8a207e8",
+    "executionDate": "2025-05-27T06:19:34.937821Z",
+    "scanStatus": "Completed",
+    "scannedFiles": "1147",
+    "ScannedLinesOfCode": "907457",
+    "ScaSupplyChainHighVulnerabilities": "0",
+    "ScaHighVulnerabilities": "13",
+    "ScaContainerHighVulnerabilities": "0",
+    "SastHighVulnerabilities": "1586",
+    "LegalHighRisks": "1",
+    "SastMediumVulnerabilities": "3511"
+}
+
